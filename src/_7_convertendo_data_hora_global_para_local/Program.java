@@ -20,7 +20,7 @@ public class Program {
 		System.out.println("r3 = " + r3);
 		System.out.println("r4 = " + r4);
 		
-		System.out.println();
+		System.out.println("---------------------------------------------------------------");
 		
 		LocalDate d01 = LocalDate.parse("2023-07-20");
 		
@@ -28,7 +28,7 @@ public class Program {
 		System.out.println("d01 mês = " + d01.getMonthValue());
 		System.out.println("d01 ano = " + d01.getYear());
 		
-		System.out.println();
+		System.out.println("---------------------------------------------------------------");
 		
 		LocalDateTime d02 = LocalDateTime.parse("2023-07-20T01:30:26");
 		
