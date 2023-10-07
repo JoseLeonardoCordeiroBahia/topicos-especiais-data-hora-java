@@ -1,4 +1,4 @@
-package _5_instanciando_data_hora_em_java;
+package _5_instanciando_data_hora;
 
 import java.time.Instant;
 import java.time.LocalDate;
